@@ -100,6 +100,7 @@ a:hover, a:focus {
 
 .white-text {
     color: #FFF;
+    font-weight: normal;
 }
 
 ::-moz-selection {
@@ -1750,4 +1751,8 @@ header {
     -webkit-transform:scale(0);
             transform:scale(0);
   }
+}
+
+.logo {
+    max-width: 100%;
 }
